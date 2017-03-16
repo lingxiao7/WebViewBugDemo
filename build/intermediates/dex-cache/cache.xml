@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Project\GitHub\WebViewBugDemo1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="19a6fe7f255abd6eda33674dba02449466f79ac7">
+        <dex dex="D:\Project\GitHub\WebViewBugDemo1\app\build\intermediates\pre-dexed\debug\instant-run_c01b6c394cf34b8de904daddc263bf6a84993b71.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Project\GitHub\WebViewBugDemo1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_91f5c31930175b7860fe0f87febc4f6b571bd292.jar" />
+    </item>
+    <item
+        jar="D:\Project\GitHub\WebViewBugDemo1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="7e7afcd37921317132e0430592cbe2cd18780def">
+        <dex dex="D:\Project\GitHub\WebViewBugDemo1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3b203f783ea8d0443be2e28efb19b518557ceaee.jar" />
+    </item>
+
+</items>
